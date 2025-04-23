@@ -44,4 +44,4 @@ This Power BI project showcases a comprehensive E-Commerce Sales Dashboard built
 	•	Marketing teams
 # 🌐 View the Live Report
 
-👉 [Click here to view the Power BI Report: https://app.powerbi.com/reportEmbed?reportId=fb2826cd-f576-49f8-9793-e82fef94fc89&autoAuth=true&ctid=178c56e2-1838-460d-9e6e-9acdebb75afc ]
+👉 [Click here to view the Power BI Report: https://app.powerbi.com/reportEmbed?reportId=fb2826cd-f576-49f8-9793-e82fef94fc89 ]

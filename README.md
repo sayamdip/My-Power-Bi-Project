@@ -9,7 +9,7 @@ This Power BI project showcases a comprehensive E-Commerce Sales Dashboard built
 
 ⸻
 
-# 📍 Visual Breakdown
+# #📍 Visual Breakdown
 	•	Bar Chart: Sum of Amount by State (e.g., Maharashtra, MP, UP)
 	•	Donut Charts:
 	•	Quantity by Category (Clothing, Electronics, Furniture)
@@ -20,14 +20,14 @@ This Power BI project showcases a comprehensive E-Commerce Sales Dashboard built
 
 ⸻
 
-# 🧩 Filters and Interactivity
+# #🧩 Filters and Interactivity
 	•	📅 Quarter Selection: Q1, Q2, Q3, Q4 toggles for period-based filtering
 	•	🌍 State Filter: Dropdown to view regional performance
 	•	🔄 Fully interactive visuals for seamless exploration and analysis
 
 ⸻
 
-# 🧰 Tools Used
+# #🧰 Tools Used
 	•	Power BI Desktop
 	•	DAX for calculated fields and KPIs
 	•	Power Query for data transformation and cleaning
@@ -35,9 +35,9 @@ This Power BI project showcases a comprehensive E-Commerce Sales Dashboard built
 
 ⸻
 
-# 👥 Target Audience
+# #👥 Target Audience
 
-# This dashboard is ideal for:
+# #This dashboard is ideal for:
 	•	E-commerce business owners
 	•	Sales managers
 	•	Business analysts

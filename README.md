@@ -45,5 +45,3 @@ This Power BI project showcases a comprehensive E-Commerce Sales Dashboard built
 # 🚀 How to Use
 	1.	Clone or download this repo.
 	2.	Open the .pbix file with Power BI Desktop.
-	3.	Review the visuals and interact using the slicers and filters.
-	4.	Replace the dummy data source with your actual sales data (if applicable).

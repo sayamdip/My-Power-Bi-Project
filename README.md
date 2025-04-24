@@ -7,8 +7,8 @@ This Power BI project showcases a comprehensive E-Commerce Sales Dashboard built
 # 📍 Visual Breakdown
 	•	Bar Chart: Sum of Amount by State (e.g., Maharashtra, MP, UP)
 	•	Donut Charts:
-	       • Quantity by Category (Clothing, Electronics, Furniture)
-	       • Quantity by Payment Mode (COD, UPI, Debit/Credit Card, EMI)
+	        • Quantity by Category (Clothing, Electronics, Furniture)
+	        • Quantity by Payment Mode (COD, UPI, Debit/Credit Card, EMI)
 	•	Monthly Profit Analysis: Bar chart showing monthly profit/loss trends
 	•	Customer Contribution: Top customers based on total sales
 	•	Sub-Category Insights: Profitability by item sub-categories

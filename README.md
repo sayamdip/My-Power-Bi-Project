@@ -1,7 +1,5 @@
 # My-Power-Bi-Project
 This Power BI project showcases a comprehensive E-Commerce Sales Dashboard built to track and analyze business performance across various dimensions like state, customer, category, and payment methods. The dashboard helps uncover insights on sales volume, profitability, and purchasing behavior—empowering data-driven decision-making.
-
-# 📊 Key Highlights
 	![image alt](https://github.com/sayamdip/My-Power-Bi-Project/blob/68c1026b2a32289b894ee89e45368c73e761922f/Dashboard%20Screenshot.png)
 ⸻
 
